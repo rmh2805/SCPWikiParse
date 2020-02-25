@@ -32,13 +32,19 @@ def main(htmlFile, divID="page-content", outputFile='out.txt'):
     
     toReturn = set()
     for link in links[:-2]:
-        if link in toRemove or 'http://' in link:
+        if link in toRemove:
             continue
+
         toReturn.add(link)
+        
+        for substring in badSubstring:
+            if substring in link:
+                toReturn.remove(link)
+    
 
     return toReturn
 
-
+badSubstring = {'javascript:;', 'http://', '#toc'}
 toRemove = {'/heritage-collection-arc'} 
 
 
