@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 
 <head>
-    <title>SCP-002 - SCP Foundation</title>
+    <title>SCP-682 - SCP Foundation</title>
     
     	<script type='text/javascript'>
 var googletag = googletag || {};
@@ -53,12 +53,12 @@ googletag.enableServices();
         WIKIREQUEST.info.siteUnixName = "scp-wiki";
         WIKIREQUEST.info.categoryId = 366566;
         WIKIREQUEST.info.themeId = 1;
-        WIKIREQUEST.info.requestPageName = "scp-002";
-        OZONE.request.timestamp = 1582654094;
+        WIKIREQUEST.info.requestPageName = "scp-682";
+        OZONE.request.timestamp = 1582657128;
         OZONE.request.date = new Date();
         WIKIREQUEST.info.lang = 'en';
-                WIKIREQUEST.info.pageUnixName = "scp-002";
-        WIKIREQUEST.info.pageId = 1927127;
+                WIKIREQUEST.info.pageUnixName = "scp-682";
+        WIKIREQUEST.info.pageId = 1956155;
                         WIKIREQUEST.info.lang = "en";
         OZONE.lang = "en";
         var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
@@ -427,7 +427,7 @@ googletag.enableServices();
 <div class="scpnet-interwiki-wrapper"><div class="list-pages-box">    <div class="list-pages-item">
 
 
-<p><iframe src="http://interwiki.scpdb.org/?wiki=scp-wiki&amp;lang=en&amp;page=_default:scp-002" align="" frameborder="" height="" scrolling="" width="" class="scpnet-interwiki-frame" style=""></iframe></p>
+<p><iframe src="http://interwiki.scpdb.org/?wiki=scp-wiki&amp;lang=en&amp;page=_default:scp-682" align="" frameborder="" height="" scrolling="" width="" class="scpnet-interwiki-frame" style=""></iframe></p>
 </div>
     
     
@@ -447,7 +447,7 @@ googletag.enableServices();
                     
                     
                         <div id="page-title">
-                            SCP-002
+                            SCP-682
                         </div>
                     
 
@@ -460,40 +460,69 @@ googletag.enableServices();
                     <div id="page-content">
                         
 
-<div style="text-align: right;"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+1283</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div></div>
-<div class="scp-image-block block-right" style="width:300px;"><img src="http://scp-wiki.wdfiles.com/local--files/scp-002/800px-SCP002.jpg" style="width:300px;" alt="800px-SCP002.jpg" class="image" />
+<div style="text-align: right;">
+<div class="heritage-rating-module"><div class="page-rate-widget-box"><span class="rate-points">rating:&nbsp;<span class="number prw54353">+2459</span></span><span class="rateup btn btn-default"><a title="I like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, 1)">+</a></span><span class="ratedown btn btn-default"><a title="I don't like it" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.rate(event, -1)">&#8211;</a></span><span class="cancel btn btn-default"><a title="Cancel my vote" href="javascript:;" onclick="WIKIDOT.modules.PageRateWidgetModule.listeners.cancelVote(event)">x</a></span></div>
+<div class="heritage-emblem"><a href="/heritage-collection-arc"><img src="http://scp-wiki.wdfiles.com/local--files/component:heritage-rating/scp-heritage-v3.png" alt="scp-heritage-v3.png" class="image" /></a></div>
+</div>
+</div>
+<div class="scp-image-block block-right" style="width:300px;"><img src="http://scp-wiki.wdfiles.com/local--files/scp-682/monster8editub9.jpg" style="width:300px;" alt="monster8editub9.jpg" class="image" />
 <div class="scp-image-caption" style="width:300px;">
-<p>SCP-002 in its containment area</p>
+<p>SCP-682 shortly after escaping from containment, still recovering from acid immersion.</p>
 </div>
 </div>
-<p><strong>Item #:</strong> SCP-002</p>
-<p><strong>Object Class:</strong> Euclid</p>
-<p><strong>Special Containment Procedures:</strong> SCP-002 is to remain connected to a suitable power supply at all times, to keep it in what appears to be a recharging mode. In case of electrical outage, the emergency barrier between the object and the facility is to be closed and the immediate area evacuated. Once facility power is re-established, alternating bursts of X-ray and ultraviolet light must strobe the area until SCP-002 is re-affixed to the power supply and returned to recharging mode. Containment area is to be kept at negative air pressure at all times.</p>
-<p>Teams including a minimum of two (2) members are required within 20 meters of SCP-002 or its containment area. Personnel should maintain physical contact with one another at all times to confirm there is another person present, as perception may be dulled, skewed, or influenced by proximity to the object.</p>
-<p>No personnel below Level 3 are permitted within SCP-002. This requirement may be waived via written authorization from two (2) off-site Level 4 administrators. Command staff issued such a waiver must be escorted by at least five (5) Level 3 Security personnel for the duration of their contact and must temporarily surrender their rank and security clearance. Following contact, command staff will be escorted at least 5&#160;km from SCP-002 to undergo a seventy-two (72)-hour quarantine and psychological evaluation. If deemed fit for return to duty by psych staff, rank and security clearance may be restored when quarantine expires.</p>
-<p><strong>Description:</strong> SCP-002 resembles a tumorous, fleshy growth with a volume of roughly 60&#160;m³ (or 2000 ft³). An iron valve hatch on one side leads to its interior, which appears to be a standard low-rent apartment of modest size. One wall of the room possesses a single window, though no such opening is visible from the exterior. The room contains furniture which, upon close examination, appears to be sculpted bone, woven hair, and various other biological substances produced by the human body. All matter tested thus far show independent or fragmented DNA sequences for each object in the room.</p>
-<p>Refer to the Mulhausen Report [cross-ref:document00.023.603] for details related to object's discovery.</p>
-<p><strong>Reference:</strong> To date, subject has been responsible for the disappearances of seven personnel. It has also in its time at the facility further furnished itself with two lamps, a throw rug, a television, a radio, a beanbag chair, three books in an unknown language, four children's toys, and a small potted plant. Tests with a variety of lab animals including higher primates have failed to provoke a response in SCP-002. Cadavers as well fail to produce any effect. Whatever process the subject uses to convert organic matter into furnishings is apparently only facilitated by the introduction of living humans.</p>
+<p><strong>Item #:</strong> SCP-682</p>
+<p><strong>Object Class:</strong> Keter</p>
+<p><strong>Special Containment Procedures:</strong> SCP-682 must be destroyed as soon as possible. At this time, no means available to SCP teams are capable of destroying SCP-682, only able to cause massive physical damage. SCP-682 should be contained within a 5&#160;m x 5&#160;m x 5&#160;m chamber with 25&#160;cm reinforced acid-resistant steel plate lining all inside surfaces. The containment chamber should be filled with hydrochloric acid until SCP-682 is submerged and incapacitated. Any attempts of SCP-682 to move, speak, or breach containment should be reacted to quickly and with full force as called for by the circumstances.</p>
+<p>Personnel are forbidden to speak to SCP-682, for fear of provoking a rage-state. All unauthorized personnel attempting to communicate to SCP-682 will be restrained and removed by force.</p>
+<p>Due to its frequent attempts at containment breach, difficulty of containment and incapacitation, and high threat of Foundation Exposure, SCP-682 is to be contained in site [REDACTED]. The Foundation will use the best of its resources to maintain all land within fifty (50) kilometers clear of human development.</p>
+<p><strong>Description:</strong> SCP-682 is a large, vaguely reptile-like creature of unknown origin. It appears to be extremely intelligent, and was observed to engage in complex communication with <a href="/scp-079">SCP-079</a> during their limited time of exposure. SCP-682 appears to have a hatred of all life, which has been expressed in several interviews during containment. (See Addendum 682-B).</p>
+<p>SCP-682 has always been observed to have extremely high strength, speed, and reflexes, though exact levels vary with its form. SCP-682's physical body grows and changes very quickly, growing or decreasing in size as it consumes or sheds material. SCP-682 gains energy from anything it ingests, organic or inorganic. Digestion seems to be aided by a set of filtering gills inside of SCP-682's nostrils, which are able to remove usable matter from any liquid solution, enabling it to constantly regenerate from the acid it is contained in. SCP-682's regenerative capabilities and resilience are staggering, and SCP-682 has been seen moving and speaking with its body 87% destroyed or rotted.</p>
+<p>In case of containment breach, SCP-682 is to be tracked and re-captured by all available Mobile Task Forces, and no teams with fewer than seven (7) members are cleared to engage it. To date (██-██-████), attempted breaches have numbered at seventeen (17), while successful breaches have numbered at six (6). (See Addendum 682-D).</p>
+<hr />
+<p><strong>Addendum 682-B:</strong> Portion of recorded transcript of <a href="http://scp-wiki.wikidot.com/local--files/scp-682/682.mp3">██████</a>.</p>
 <blockquote>
-<p>view Mulhausen Report docid:00.023.603</p>
+<p><strong>&lt;Begin Log, skip to 00h-21m-52s&gt;</strong></p>
+<p><strong>Dr.</strong> ██████: Now, why did you kill those farmers?</p>
+<p><strong>SCP-682:</strong> (No verbal communication)</p>
+<p><strong>Dr.</strong> ██████: If you don't talk now, we will remove you from this attempt and place you back into-</p>
+<p><strong>SCP-682:</strong> (Incomprehensible)</p>
+<p><strong>Dr.</strong> ██████: Pardon? (Motions to move microphone closer)</p>
+<p><strong>SCP-682:</strong> (Incomprehensible)</p>
+<p><strong>Dr.</strong> ██████: Speak up. (To Personnel D-085) Move the mic up closer.</p>
+<p><strong>SCP-682:</strong> &#8230;they were (Incomprehensible)&#8230;</p>
+<p><strong>Dr.</strong> ██████: (To Personnel D-085) That microphone has only so much gain, move it closer to it!</p>
+<p><strong>Personnel D-085:</strong> His throat's messed up man, look at it! He ain't talking- (Gasps and screams)</p>
+<p><strong>SCP-682:</strong> (Appearing to assault D-085's body) &#8230;they were&#8230; disgusting&#8230;</p>
+<p><strong>Dr. ██████:</strong> (Retreats from the room)</p>
+<p><strong>&lt;End Log&gt;</strong></p>
 </blockquote>
+<hr />
+<p><strong>Addendum 682-D:</strong> Breaches with SCP-682:</p>
+<p><strong>1: First Occurrence,</strong> ██-██-████: Handled by Agent ███████, Agent ███, Agent ████████ (KIA), Personnel D-129 (KIA), Personnel D-027 (KIA), Personnel D-173 (KIA), Personnel D-200 (KIA), Personnel D-193 (KIA)</p>
+<p><strong>2: Second Occurrence,</strong> ██-██-████: Handled by Agent ███, Agent ████████████, Dr. ███████, Personnel D-124, Personnel D-137 (KIA), Personnel D-201 (KIA), Personnel D-202 (KIA), Personnel D-203 (KIA)</p>
+<p><strong>3: Third Occurrence,</strong> ██-██-████: Handled by Agent ███████, MSgt █████████, Agent ████████, Agent ██████ (KIA), Personnel D-018 (KIA), Personnel D-211 (KIA), Personnel D-216</p>
+<p><strong>4: Fourth Occurrence,</strong> ██-██-████: Handled by Agent ████████, SSgt ██████, TSgt █████, Pvt ████████, Pvt █████, Lt. ████████████, SSgt ████████ (KIA), Col ████████ (KIA), Pvt ███████ (KIA), Pvt ██████ (KIA), Agent ███ (KIA)</p>
+<p><strong>5: Fifth Occurrence,</strong> ██-██-████: Handled by Personnel D-221, Agent ██████████ (KIA), Agent ████████ (KIA), Agent ██████ (KIA), Personnel D-028 (KIA), Personnel D-111 (KIA), Personnel D-281 (KIA), Personnel D-209 (KIA)</p>
+<p><strong>6: Sixth Occurrence,</strong> ██-██-████: Handled by Agent ██████████, Agent ██████, Personnel D-291 (MIA), Agent ████████ (KIA), Agent █████████████ (KIA), Personnel D-299 (KIA), Personnel D-277 (KIA), Personnel D-278 (KIA), Personnel D-279 (KIA)</p>
+<hr />
+<p><strong>Addendum 682-E:</strong> Termination Options:</p>
+<p><strong>Log of event 682-E18:</strong> Dr. █████ attempts to use <a href="/scp-409">SCP-409</a> on SCP-682. General ███, General ██████, and Dr. ██████████ observing.</p>
 <blockquote>
-<p>Mulhausen Report [00.023.603]<br />
-<br />
-The following is a brief report detailing the discovery of SCP-002</p>
-<p>Subject was discovered in a small crater in northern Portugal where it struck the Earth from orbit. Encased in a shell of thick rock, the fleshy exterior of the object was exposed by the impact. A native farmer happened upon the site and reported his findings to the village elder. Subject gained SCP attention when a Level 4 agent posted in the area detected a small radioactive anomaly generated by the object.</p>
-<p>A collection squad of SCP security personnel led by General Mulhausen was immediately dispatched to the area where they quickly secured the subject in a large container and performed initial testing with subjects recruited from the nearby village. Three men individually sent into the structure subsequently disappeared. Upon discovering this deadly property of the subject, General Mulhausen issued a Level 4a Termination Order of any witnesses (roughly 1/3 of the village) to ensure no outside knowledge of the object and initiated its transport to SCP facility [DATA EXPUNGED].<br />
-<br />
-During preparation for transport, four SCP security personnel were inexplicably drawn inside the object where they too immediately disappeared. Following inspection, it appeared as if the object had &quot;grown&quot; several new furnishings and was beginning to look like the interior of an apartment room. General Mulhausen immediately ordered the requisition of several Class III HAZMAT suits for the remaining security team members, who proceeded to lift the container onto a waiting freight ship for transport to the SCP containment facility.</p>
-<p>[DATA EXPUNGED]<br />
-<br />
-[DATA EXPUNGED]<br />
-<br />
-Following the termination of General Mulhausen, SCP-002 was re-secured by SCP staff and brought into special containment in [CLASSIFIED], where it currently resides. Staff with clearance below Level 3 have been denied access to the SCP-002 container without prior approval of at least two Level 4 staff after the Mulhausen incident.</p>
+<p>0400: Exposure. SCP-682 began to tear at the point of contact, causing massive trauma to the area. SCP-682 requests several times to know what it has been exposed to.</p>
+<p>0800: Crystallization begins, spreading much slower than normal.</p>
+<p>1200: SCP-682 shows signs of extreme pain, and begins having seizures</p>
+<p>1300: Crystallization stops at 62% conversion. Crystallized area explodes, causing massive physical trauma to SCP-682</p>
+<p>1400: SCP-682 recovers from exposure, despite the loss of limbs and organs. SCP-682 begins regeneration, stating that it will attempt to kill and consume all staff involved in Event 682-E18.</p>
 </blockquote>
+<p>SCP-682 appears to now be immune to <a href="/scp-409">SCP-409</a>. Use of other SCP items to terminate SCP-682 must now first be tested on samples of SCP-682 before full-scale testing.</p>
+<p>In accordance the Dr. ████████'s recommendations (see Document 27b-6), Dr. ███████ and Dr. █████ have requested permission to attempt the termination of SCP-682 using <a href="/scp-689">SCP-689</a>. The request is currently pending approval from the ████████.</p>
+<p>It has also been suggested by Dr. Gears to use <a href="/scp-182">SCP-182</a> in an attempt to communicate with SCP-682. <a href="/scp-182">SCP-182</a> has expressed reluctance, and refuses to enter the containment center of SCP-682, if at all possible.</p>
+<hr />
+<p><strong>Addendum 682-F:</strong> Termination Log:<br />
+<a href="/experiment-log-t-98816-oc108-682">Experiment-Log-T-98816-oc108-682</a></p>
 <div class="footer-wikiwalk-nav">
 <div style="text-align: center;">
-<p>&#171; <a href="/scp-001">SCP-001</a> | SCP-002 | <a href="/scp-003">SCP-003</a> &#187;</p>
+<p>&#171; <a href="/scp-681">SCP-681</a> | SCP-682 | <a href="/scp-683">SCP-683</a> &#187;</p>
 </div>
 </div>
 
@@ -517,7 +546,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410946564449-0');
                     
                         <div class="page-tags">
                             <span>
-                                <a href="/system:page-tags/tag/alive#pages">alive</a><a href="/system:page-tags/tag/euclid#pages">euclid</a><a href="/system:page-tags/tag/featured#pages">featured</a><a href="/system:page-tags/tag/_image#pages">_image</a><a href="/system:page-tags/tag/scp#pages">scp</a><a href="/system:page-tags/tag/structure#pages">structure</a><a href="/system:page-tags/tag/transfiguration#pages">transfiguration</a>
+                                <a href="/system:page-tags/tag/adaptive#pages">adaptive</a><a href="/system:page-tags/tag/audio#pages">audio</a><a href="/system:page-tags/tag/co-authored#pages">co-authored</a><a href="/system:page-tags/tag/heritage#pages">heritage</a><a href="/system:page-tags/tag/_image#pages">_image</a><a href="/system:page-tags/tag/keter#pages">keter</a><a href="/system:page-tags/tag/reptilian#pages">reptilian</a><a href="/system:page-tags/tag/scp#pages">scp</a><a href="/system:page-tags/tag/self-repairing#pages">self-repairing</a><a href="/system:page-tags/tag/sentient#pages">sentient</a>
                             </span>
                         </div>
                     
@@ -525,12 +554,12 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1410946564449-0');
                     <div id="page-info-break"></div>
                     
                         <div id="page-options-container">
-                            <div id="page-info">page revision: 63, last edited: <span class="odate time_1514149160 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">24 Dec 2017 20:59</span></div>
+                            <div id="page-info">page revision: 40, last edited: <span class="odate time_1561867680 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20ago%29">30 Jun 2019 04:08</span></div>
             <div id="page-options-bottom"  class="page-options-bottom">
             <a href="javascript:;" class="btn btn-default" id="edit-button">Edit</a>
-<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+1283</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Rate (<span id="prw54355">+2459</span>)</a>
 <a href="javascript:;" class="btn btn-default" id="tags-button">Tags</a>
-<a href="/forum/t-76632/scp-002" class="btn btn-default" id="discuss-button">Discuss (103)</a>
+<a href="/forum/t-76858/scp-682" class="btn btn-default" id="discuss-button">Discuss (878)</a>
 <a href="javascript:;" class="btn btn-default" id="history-button">History</a>
 <a href="javascript:;" class="btn btn-default" id="files-button">Files</a>
 <a href="javascript:;" class="btn btn-default" id="print-button">Print</a>
@@ -597,21 +626,32 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
   <div class="units">
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://scp-wiki-de.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/scp-wiki-de.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://margopedia.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/margopedia.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://scp-wiki-de.wikidot.com">SCP Foundation</a></h3>
+            <h3><a target="_blank" href="http://margopedia.wikidot.com">Margopedia</a></h3>
             <div class="desc">          
-              auf Deutsch
+              Połączenie wikipedii i nonsensopedii...
             </div>
           </div>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://heroesmush.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/heroesmush.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://05command.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/05command.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://heroesmush.wikidot.com">Heroes MUSH</a></h3>
+            <h3><a target="_blank" href="http://05command.wikidot.com">O5 Command</a></h3>
+            <div class="desc">          
+              This is not at all how I imagined this would all turn out.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://microchipdeveloper.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/microchipdeveloper.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://microchipdeveloper.com">Developer Help</a></h3>
             <div class="desc">          
               
             </div>
@@ -619,21 +659,10 @@ Powered by <a href="http://www.wikidot.com">Wikidot.com</a>
         </div>
               <div class="unit">
           <div class="inner">
-            <a target="_blank" class="image" href="http://bootstrap-playground.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/bootstrap-playground.wikidot.com/80.jpg"/>
+            <a target="_blank" class="image" href="http://fearschemistry.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/fearschemistry.wikidot.com/80.jpg"/>
             </a>
-            <h3><a target="_blank" href="http://bootstrap-playground.wikidot.com">Bootstrap Playground</a></h3>
-            <div class="desc">          
-              Because we all need a place to play
-            </div>
-          </div>
-        </div>
-              <div class="unit">
-          <div class="inner">
-            <a target="_blank" class="image" href="http://sniktbub.wikidot.com">
-              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/sniktbub.wikidot.com/80.jpg"/>
-            </a>
-            <h3><a target="_blank" href="http://sniktbub.wikidot.com">Marvel Untold MUX</a></h3>
+            <h3><a target="_blank" href="http://fearschemistry.wikidot.com">Chemistry</a></h3>
             <div class="desc">          
               
             </div>
